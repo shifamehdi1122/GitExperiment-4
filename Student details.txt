@@ -1,0 +1,5 @@
+Name:ABCDEF
+USN:1GC25XXXXX
+Branch:XYZ
+Year:2
+sem:3
